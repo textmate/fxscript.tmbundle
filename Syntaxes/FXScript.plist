@@ -6,10 +6,6 @@
 	<array>
 		<string>fxscript</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(^|(?&lt;=;)[ \t]*)on[ \t]+(\w+)[ \t]*</string>
-	<key>foldingStopMarker</key>
-	<string>end(;|;?[ \t]*|;?[ \t]*//.*[ \t]*)</string>
 	<key>keyEquivalent</key>
 	<string>^~F</string>
 	<key>name</key>
